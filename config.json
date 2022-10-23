@@ -7,7 +7,7 @@
 	"self": false,
 	"limit": { "limitUser": 30, "gameLimitUser": 10, "gameLimitPremium": 30 },
 	"packInfo": { "packname": "@ᴹᴿ᭄ᴛͦɪᷫsᷫᴜͥᴅͨᴇͥᴍᷧᴏᷝɴ", "author": "12263651312" },
-	"namebot": "KurumiBot",
+	"namebot": "TongkolBot",
 	"timezone": "Asia/Jakarta",
 	"ignore": {
 		"directory": ["hehe"]
